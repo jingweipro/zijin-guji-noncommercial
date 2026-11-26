@@ -3,6 +3,14 @@
 子衿古籍是一项免费公益阅读工程，致力于古籍数字化、传播与共同校勘。
 在线阅读：https://guji.wuyunliuqi.top/
 
+## 在线体验 / Live demo
+
+[免费在线阅读](https://guji.wuyunliuqi.top/) · [全部古籍书目](https://guji.wuyunliuqi.top/catalogue/) · [阅读器源码与13张实机功能截图](https://github.com/jingweipro/zijin-guji-reader#实际界面截图--screenshots)
+
+[<img src="https://raw.githubusercontent.com/jingweipro/zijin-guji-reader/main/docs/screenshots/05-mobile-reading.png" width="220" alt="子衿古籍手机宽度竖排阅读体验">](https://guji.wuyunliuqi.top/)
+
+阅读器支持右起竖排、字体与纸色设置、全文检索、笔记、分享和电子书下载。截图来自公开阅读器实际运行界面（手机宽度模拟视口），并非概念图。
+
 ## 下载与使用 / Download & reuse
 每部书的 `books/<id>/content.json` 是结构化正文，`edition.txt` 与 `edition.epub` 可直接下载阅读，`meta.json` 是版本与来源信息。`catalog-sharing.json` 登记每部书的许可、署名、来源和文件 SHA-256。请保留这些信息与对应出处页。
 Each book includes JSON, TXT, EPUB, metadata and attribution. Preserve per-book notices and follow its original license. No blanket software license applies to the collection.
