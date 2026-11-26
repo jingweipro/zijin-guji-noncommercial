@@ -1,0 +1,162 @@
+心经
+唐 · 唐 玄奘譯
+CBETA《大正新脩大藏經》 T08n0251
+内容版本 1.0.1
+底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。
+子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。
+CC BY-NC-SA 4.0　https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://cbetaonline.dila.edu.tw/zh/T0251
+CBETA XML P5 · 8ebac86d00719479db5777dc6cd77ba111c3067a
+https://raw.githubusercontent.com/cbeta-org/xml-p5/8ebac86d00719479db5777dc6cd77ba111c3067a/T/T08/T08n0251.xml
+使用说明　https://cbeta.org/copyright
+
+目录
+卷一
+
+卷一
+大明太祖高皇帝御製般若心經序
+二儀久判，萬物備周，子民者君君，育民者法其法也。三綱五常以示天下，亦以五刑輔弼之。有等凶頑不循教者，往往有趨火赴淵之為，終不自省。是凶頑者，非特中國有之，盡天下莫不亦然。俄西域生佛，號曰釋迦，其為佛也，行深願重，始終不二。於是出世間脫苦趣為其效也，仁慈忍辱務明心以立命，執此道而為之，意在人皆在此利濟群生。今時之人罔知佛之所以，每云法空虛而不實，何以導君子、訓小人。以朕言之則不然。佛之教實而不虛，正欲去愚迷之虛，立本性之實，特挺身苦行，外其教而異其名，脫苦有情。昔佛在時，侍從聽從者皆聰明之士，演說者乃三綱五常之性理也。既聞之後，人各獲福。自佛入滅之後，其法流入中國，間有聰明者動演人天小果猶能化凶頑為善，何況聰明者知大乘而識宗旨者乎。如心經每言空不言實，所言之空乃相空耳。除空之外，所存者本性也。所以相空有六，謂口空說相，眼空色相，耳空聽相，鼻空嗅相，舌空味相，身空樂相。其六空之相又非真相之空，乃妄想之相為之空相，是空相愚及世人禍及今古，往往愈墮彌深不知其幾。斯空相，前代帝王被所惑而幾喪天下者，周之穆王，漢之武帝，唐之玄宗，蕭梁武帝，元魏主燾，李後主，宋徽宗。此數帝廢國怠政，惟蕭梁武帝、宋之徽宗以及殺身，皆由妄想飛升及入佛天之地。其佛天之地未嘗渺茫，此等快樂世嘗有之，為人性貪而不覺，而又取其樂人世有之者，何且佛天之地如。為國君及王侯者，若不作非為，善能保守此境，非佛天者何如。不能保守而偽為，用妄想之心即入空虛之境，故有如是，斯空相，富者被纏則婬欲並生喪富矣，貧者被纏則諸詐並作殞身矣，其將賢未賢之人被纏則非仁人君子也，其僧道被纏則不能立本性而見宗旨者也。所以本經題云心經者，正欲去心之邪念以歸正道，豈佛教之妄耶。朕特述此，使聰明者觀二儀之覆載，日月之循環，虛實之孰取，保命者何如。若取有道、保有方，豈不佛法之良哉！色空之妙乎！
+般若波羅蜜多心經序
+唐釋慧忠撰
+夫法性無邊，豈藉心之所度；真如非相，詎假言之所詮。是故眾生浩浩無窮，法海茫茫何極。若也廣尋文義，猶如鏡裏求形，更乃息念觀空，又似日中逃影。茲經喻如大地，何物不從地之所生，諸佛唯指一心，何法不因心之所立。但了心地，故號總持，悟法無生，名為妙覺。一念超越，豈在繁論者爾。
+般若波羅蜜多心經
+唐三藏法師玄奘譯
+觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。
+「舍利子！色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。
+「舍利子！是諸法空相，不生不滅，不垢不淨，不增不減。是故，空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。
+「以無所得故，菩提薩埵依般若波羅蜜多故，心無罣礙；無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。三世諸佛依般若波羅蜜多故，得阿耨多羅三藐三菩提。
+「故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛，故說般若波羅蜜多咒。」
+即說咒曰：
+「揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　莎婆訶」
+般若波羅蜜多心經
+
+版本与来源
+
+唐 · 唐 玄奘譯
+CBETA《大正新脩大藏經》 T08n0251
+内容版本 1.0.1
+底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。
+子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。
+CC BY-NC-SA 4.0　https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://cbetaonline.dila.edu.tw/zh/T0251
+CBETA XML P5 · 8ebac86d00719479db5777dc6cd77ba111c3067a
+https://raw.githubusercontent.com/cbeta-org/xml-p5/8ebac86d00719479db5777dc6cd77ba111c3067a/T/T08/T08n0251.xml
+使用说明　https://cbeta.org/copyright
+
+財團法人佛教電子佛典基金會　版權宣告
+https://cbeta.org/copyright
+
+一、 CBETA 電子佛典資料庫（以下簡稱本資料庫）使用說明
+非營利使用：本資料庫之使用限定於個人或團體非營利性用途。
+再傳播規範：將本資料庫以網路、光碟或其它媒體再傳播、節錄引用及再加工發行時，以不改變實質內容為原則，並需於成品附上本說明及版本資訊，以利使用者查詢相關修訂資訊。
+錯誤回報：若發現本資料庫中任何錯誤之處，請與本會聯絡。
+免責聲明：若因使用本資料庫所產生之任何損害，本會一概不負任何責任。
+核心授權：除下方「二、底本來源與授權分類」中特別註明不適用之文獻外，本資料庫未特別說明處皆採用「Creative Commons 姓名標示-非商業性-相同方式分享 4.0 國際授權條款」釋出。
+二、 底本來源與授權分類
+本資料庫之底本文獻依授權性質區分為以下兩大類。若您有超出本站 CC 授權範圍之外的利用需求（如商業利用或改作），請逕洽各著作權人或原出版單位：
+類別 A：隨本站以創用 CC 條款共同開放之文獻
+《大正新脩大藏經》（大藏出版株式會社 ©） 第一冊至第八十五冊
+《卍新纂續藏經》（株式會社國書刊行會 ©）第一冊至第九十冊
+歷代藏經補輯《嘉興大藏經》（新文豐出版公司）第一冊至第四十冊
+《房山石經》、《趙城金藏》、《永樂北藏》等等
+「國家圖書館善本佛典」（國家圖書館 ©）
+《漢譯南傳大藏經》（元亨寺 ©）第一冊至第七十冊
+近代新編文獻《藏外佛教文獻》（方廣錩 ©）第一輯至第十二輯
+《正史佛教資料類編》（杜斗城 ©）
+《北朝佛教石刻拓片百品》（中央研究院歷史語言研究所 ©）
+《大藏經補編》（藍吉富 ©）第一冊至第三十六冊
+《中國佛寺史志彙刊》（杜潔祥主編，「中國佛教寺廟志數位典藏」專案提供數位版本）
+《中國佛寺志叢刊》（張智等編輯，「中國佛教寺廟志數位典藏」專案提供數位版本）
+類別 B：不屬於創用 CC 條款授權之文獻
+《印順法師佛學著作集》（印順文教基金會 ©）
+《呂澂佛學著作集》（呂應中等 ©）
+《太虛大師全書》（印順文教基金會 ©）
+《演培法師全集》（演培法師全集出版委員會 ©）
+本資料庫之建置與流通，承蒙上述各著作權人、出版單位、學術研究機構及相關單位之授權與支持，並蒙眾多佛教團體及志工鼎力協助，方得成就。
+CBETA 基金會於此謹致上最深切的謝意。
+※ 底本詳細資訊請見藏經代碼說明
+財團法人佛教電子佛典基金會
+Comprehensive Buddhist Electronic Text Archive Foundation
+非賣品‧非營利性使用
+Priceless, not to be sold‧
+No Commercial Used Allowed
+
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title level="s">Taishō Tripiṭaka</title>
+      <title level="s" xml:lang="zh-Hant">大正新脩大藏經</title>
+      <title level="m" xml:lang="zh-Hant">般若波羅蜜多心經</title>
+      <title>Taishō Tripiṭaka, Electronic version, No. 251 般若波羅蜜多心經</title>
+      <title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 251 般若波羅蜜多心經</title>
+      <author>唐 玄奘譯</author>
+      <respStmt>
+        <resp>Electronic Version by</resp>
+        <name>CBETA</name>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition>XML TEI P5</edition>
+      <respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA</name></respStmt>
+      <respStmt xml:id="resp2"><resp>corrections</resp><name>Taisho</name></respStmt>
+      <respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA.poyung</name></respStmt>
+    </editionStmt>
+    <extent>1卷</extent>
+    <publicationStmt>
+      <idno type="CBETA">
+        <idno type="canon">T</idno>.<idno type="vol">8</idno>.<idno type="no">251</idno>
+      </idno>
+      <distributor>
+        <name>財團法人佛教電子佛典基金會 (CBETA)</name>
+        <address>
+          <addrLine><email>service@cbeta.org</email></addrLine>
+        </address>
+      </distributor>
+      <availability>
+        <p>Available for non-commercial use when distributed with this header intact.</p>
+      </availability>
+      <date>2025-07-27 15:48:43 +0800</date>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>大正新脩大藏經</bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <projectDesc>
+      <p cb:type="ly" xml:lang="en">Text as provided by Mr. Zhuang Derming, CBETA OCR Group, Punctuated text as provided by Maha Studio, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng, Others</p>
+      <p cb:type="ly" xml:lang="zh-Hant">莊德明大德提供，CBETA 自行掃瞄辨識，摩訶工作室提供新式標點，張革豐大德提供新式標點重校，其他</p>
+    </projectDesc>
+    <editorialDecl>
+      <punctuation resp="#resp1"><p>新式標點</p></punctuation>
+    </editorialDecl>
+    <tagsDecl>
+      <namespace name="http://www.tei-c.org/ns/1.0">
+        <tagUsage gi="rdg">
+          <listWit>
+            <witness xml:id="wit.cbeta">【CB】</witness>
+            <witness xml:id="wit.orig">【大】</witness>
+            <witness xml:id="wit1">【宋】</witness>
+            <witness xml:id="wit2">【元】</witness>
+            <witness xml:id="wit3">【明】</witness>
+            <witness xml:id="wit4">【房山-CB】</witness>
+          </listWit>
+        </tagUsage>
+      </namespace>
+    </tagsDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="en">English</language>
+      <language ident="zh-Hant">Chinese (Traditional)</language>
+    </langUsage>
+  </profileDesc>
+  <revisionDesc>
+    <change when="2013-05-20">
+      <name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+    </change>
+    <change when="1999-07-21T18:35:54">
+      CW (ed.) converted to XML with CBXML.BAT (99/6/30)
+    </change>
+  </revisionDesc>
+</teiHeader>

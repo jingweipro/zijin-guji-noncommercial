@@ -1,0 +1,1431 @@
+{
+  "status": "PUBLIC_RELEASE",
+  "sourceCommit": "87c4ffbdd3ed9d91774eea34d1bcdcf0cd3db9aa",
+  "books": [
+    {
+      "id": "cbeta-t13n0412",
+      "title": "地藏菩萨本愿经",
+      "edition": "CBETA《大正新脩大藏經》 T13n0412",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T13n0412",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0412"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0412"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t13n0412/content.json",
+          "sha256": "f7e22061c6444cfe7c295f5af10af55051b82a9326ad8daafcc543fe68c1d9e8",
+          "bytes": 71791
+        },
+        {
+          "path": "books/cbeta-t13n0412/edition.epub",
+          "sha256": "c53b564f1adac361ec64ca46beb5e5999e04ed6d19cb32bda01c6a41d125b57c",
+          "bytes": 31709
+        },
+        {
+          "path": "books/cbeta-t13n0412/edition.txt",
+          "sha256": "f1e6095c0d0bf5126ac44ebaba4b5fa74214a75c2b477bc94794810ebd9b5f55",
+          "bytes": 71662
+        },
+        {
+          "path": "books/cbeta-t13n0412/meta.json",
+          "sha256": "9ff0f1d31112c84634434425092d18e02c580bbe35a1e4d7189e1def73f09ffb",
+          "bytes": 2841
+        },
+        {
+          "path": "notices/56ec55a07132ed591d2fe960402c6fe219a8d3ba25b8915817c1607b71a5ab72.txt",
+          "sha256": "56ec55a07132ed591d2fe960402c6fe219a8d3ba25b8915817c1607b71a5ab72",
+          "bytes": 4218
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/32.html",
+          "sha256": "d348a830c62230ed5a6a052bff9eea349b44b1d6bc31831f771b6eaaccfd8324",
+          "bytes": 10053
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t48n2012a",
+      "title": "黄檗山断际禅师传心法要",
+      "edition": "CBETA《大正新脩大藏經》 T48n2012A",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T48n2012A",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2012A"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2012A"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t48n2012a/content.json",
+          "sha256": "7640f41db92c74d407ee0c089f07f7a22ac50b5863e5dbfe3b4a21c89be4e50b",
+          "bytes": 23995
+        },
+        {
+          "path": "books/cbeta-t48n2012a/edition.epub",
+          "sha256": "6dca78c6b47a526a4d87182516e41dc9ac58b8b7f89479c5ef12b1044912e95b",
+          "bytes": 16768
+        },
+        {
+          "path": "books/cbeta-t48n2012a/edition.txt",
+          "sha256": "e9fcb7ff37b1566f045cf090a8d1a917ee580bdf300ba872940db27b73afc053",
+          "bytes": 31011
+        },
+        {
+          "path": "books/cbeta-t48n2012a/meta.json",
+          "sha256": "8041457ca6d33ab7a80b9fa99038988a651dc45331a83a536ccea45600d7e12d",
+          "bytes": 2854
+        },
+        {
+          "path": "notices/85bd9f5c5e4a73ccee9640e864c60221172600ea23ebf956d1ff40a6bafb3d41.txt",
+          "sha256": "85bd9f5c5e4a73ccee9640e864c60221172600ea23ebf956d1ff40a6bafb3d41",
+          "bytes": 3660
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/33.html",
+          "sha256": "28a9166d47d0e3db1f39e327e360eeca9fe81fb6ae5f733c47c247e5c461d0af",
+          "bytes": 9339
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t48n2008",
+      "title": "六祖坛经",
+      "edition": "CBETA《大正新脩大藏經》 T48n2008",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T48n2008",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2008"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2008"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t48n2008/content.json",
+          "sha256": "4a251d2a708bc75698e9dcd8a9080eeeb3884002cf0a177b4a58b9f429a921a6",
+          "bytes": 114131
+        },
+        {
+          "path": "books/cbeta-t48n2008/edition.epub",
+          "sha256": "10288feb104e2851d2faa5a63ea326f2d8db48e182597ead7633b851621a8d42",
+          "bytes": 51046
+        },
+        {
+          "path": "books/cbeta-t48n2008/edition.txt",
+          "sha256": "7b50d6a521b8496ed7a8068beb4ab90a7a977f624745c6b2d192dca4f222860f",
+          "bytes": 107675
+        },
+        {
+          "path": "books/cbeta-t48n2008/meta.json",
+          "sha256": "bc8dc2b45019fdaccad7b2d3b157ea82dcd2287b182408ad17b6846e2e6b60c9",
+          "bytes": 2838
+        },
+        {
+          "path": "notices/9c7e9271d86d56a15a0e2dde1f47f9d8630d566fcecabace9599633162066acd.txt",
+          "sha256": "9c7e9271d86d56a15a0e2dde1f47f9d8630d566fcecabace9599633162066acd",
+          "bytes": 4368
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/34.html",
+          "sha256": "21a9283503097c46a19beb0a6889ea38e74e8a68bb8d4ebb9771d076f522bbf6",
+          "bytes": 10227
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t19n0945",
+      "title": "楞严经",
+      "edition": "CBETA《大正新脩大藏經》 T19n0945",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T19n0945",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0945"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0945"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t19n0945/content.json",
+          "sha256": "4bfd74e882d57ff49e6f2203b18bb163dba4fd6c10fd8e84a32ef91a2c11a809",
+          "bytes": 381778
+        },
+        {
+          "path": "books/cbeta-t19n0945/edition.epub",
+          "sha256": "f4c103f192b2c5db51c4a6b88ffe428233622d64cd2cc5c18bd7409068d7efde",
+          "bytes": 121255
+        },
+        {
+          "path": "books/cbeta-t19n0945/edition.txt",
+          "sha256": "d5149cdf63f96a07cd36f538dfc2f9507477a43b75d15b2c52087f0e63899c0f",
+          "bytes": 289838
+        },
+        {
+          "path": "books/cbeta-t19n0945/meta.json",
+          "sha256": "ae728ff90d11751d61062ed8da8137086ba3e5754796cb14326d64f98d94aec5",
+          "bytes": 2890
+        },
+        {
+          "path": "notices/9af428ecf0e7da0828f7fb06a0f99411c2399f2a5c227c71e9bbebf6a604a6ed.txt",
+          "sha256": "9af428ecf0e7da0828f7fb06a0f99411c2399f2a5c227c71e9bbebf6a604a6ed",
+          "bytes": 16003
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/35.html",
+          "sha256": "53b34d0b2cd3b3e80bec541c0292aaad691ed8d5e4e06866c61fd3f5ab4e6a26",
+          "bytes": 26166
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t17n0842",
+      "title": "大方广圆觉修多罗了义经",
+      "edition": "CBETA《大正新脩大藏經》 T17n0842",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T17n0842",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0842"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0842"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t17n0842/content.json",
+          "sha256": "5b8b8c3b7cd9178fb15af3e7e71016d19e22f0abc90608799a697b70cea628bb",
+          "bytes": 51429
+        },
+        {
+          "path": "books/cbeta-t17n0842/edition.epub",
+          "sha256": "f4bb2ad3f951017cee75fb9aabc9e975c7f8b00014a6a703674b28270f7116d8",
+          "bytes": 21156
+        },
+        {
+          "path": "books/cbeta-t17n0842/edition.txt",
+          "sha256": "f224df0f6e3a583a3e2473526df334e47557b53f7dc17a2c134b50b7df4bf630",
+          "bytes": 50340
+        },
+        {
+          "path": "books/cbeta-t17n0842/meta.json",
+          "sha256": "6b64cfd3bd7c34e05044ec9ab0ebb00e0be8fadb33269724202693c9ceb72d37",
+          "bytes": 2865
+        },
+        {
+          "path": "notices/66f737ce4f80c156644562167e21980feb730e6d66e9d9ba77377c0113e631ca.txt",
+          "sha256": "66f737ce4f80c156644562167e21980feb730e6d66e9d9ba77377c0113e631ca",
+          "bytes": 3953
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/36.html",
+          "sha256": "dc35d6985d71c2942b830d255ea31bab7604f64b05864e1ec043d413d70cd12d",
+          "bytes": 9638
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t14n0475",
+      "title": "维摩诘所说经",
+      "edition": "CBETA《大正新脩大藏經》 T14n0475",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T14n0475",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0475"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0475"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t14n0475/content.json",
+          "sha256": "6ac018d832ad28f1df733987f079c37304344502b2e31cd496396ba6055052b9",
+          "bytes": 120825
+        },
+        {
+          "path": "books/cbeta-t14n0475/edition.epub",
+          "sha256": "bee00663a32bae05470243e76a563c23b1677f498062f13a6ed9945ff84f231f",
+          "bytes": 46922
+        },
+        {
+          "path": "books/cbeta-t14n0475/edition.txt",
+          "sha256": "f0ffbacdde28c3f9c64708d9076dc1efb6f7ccd125fc95d0e6ef0a892187dc11",
+          "bytes": 110481
+        },
+        {
+          "path": "books/cbeta-t14n0475/meta.json",
+          "sha256": "6f1a03e5229c90eb427245244e58bea70fdac045a81033929db8f92dcc825710",
+          "bytes": 2874
+        },
+        {
+          "path": "notices/00e7fa38ce0d1787462f53390f00f45fffd95de07bbfbe04f5a815608e197b52.txt",
+          "sha256": "00e7fa38ce0d1787462f53390f00f45fffd95de07bbfbe04f5a815608e197b52",
+          "bytes": 5001
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/37.html",
+          "sha256": "31175007ebe5d615ef186939545be52af7437188a20966744b0811e1ec4dda6e",
+          "bytes": 11114
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t16n0676",
+      "title": "解深密经",
+      "edition": "CBETA《大正新脩大藏經》 T16n0676",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T16n0676",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0676"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0676"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t16n0676/content.json",
+          "sha256": "fb4c0c97bb25d19a72e5ee21a7c22ba2c0ba128b53cf5708034990825295ab2a",
+          "bytes": 135395
+        },
+        {
+          "path": "books/cbeta-t16n0676/edition.epub",
+          "sha256": "348e54bf4cf1af55776f19d1ba91e7531f73942ef10878b6d74aac38fa2427fc",
+          "bytes": 44486
+        },
+        {
+          "path": "books/cbeta-t16n0676/edition.txt",
+          "sha256": "9a28705cde3238fc457f7a812254b238019c8106971a630e8f6cff30198e2f28",
+          "bytes": 124521
+        },
+        {
+          "path": "books/cbeta-t16n0676/meta.json",
+          "sha256": "d7caa6cd90cda60633c1c5bc8065242ee7a6fb193dace28e67c21a5a28baabce",
+          "bytes": 2805
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/a31530070987f1e433eefca79c3a95f9ab9f76d949cb6a7c32b3b44b3653482b.txt",
+          "sha256": "a31530070987f1e433eefca79c3a95f9ab9f76d949cb6a7c32b3b44b3653482b",
+          "bytes": 4821
+        },
+        {
+          "path": "s/38.html",
+          "sha256": "f2c5045a3c0ef42a8e28b5aff47102a2d9efebd6bcfdcc709508d036ab91e5c6",
+          "bytes": 10854
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t16n0670",
+      "title": "楞伽阿跋多罗宝经",
+      "edition": "CBETA《大正新脩大藏經》 T16n0670",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T16n0670",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0670"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0670"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t16n0670/content.json",
+          "sha256": "e01ccce60686c6824564fe0f7d122423ce97d906bdf8075e71c8074f1bcb0f1f",
+          "bytes": 213559
+        },
+        {
+          "path": "books/cbeta-t16n0670/edition.epub",
+          "sha256": "da57479a265278fec079cbdd910d40bc405226efea6615ecd10652f84cedecf4",
+          "bytes": 68941
+        },
+        {
+          "path": "books/cbeta-t16n0670/edition.txt",
+          "sha256": "ef5dff07ea2cf375e11c58353b7715581aaa5b1c070b056ea187b3ed884a9c1d",
+          "bytes": 176293
+        },
+        {
+          "path": "books/cbeta-t16n0670/meta.json",
+          "sha256": "12f5c8a7c1310212fe2abafcbc03998650aa0462906953352effbcecceb92453",
+          "bytes": 2895
+        },
+        {
+          "path": "notices/672e2ccdc91e487a9eea8dd035574c48f919ed537c018fdd27b2f0b10fcc7cc6.txt",
+          "sha256": "672e2ccdc91e487a9eea8dd035574c48f919ed537c018fdd27b2f0b10fcc7cc6",
+          "bytes": 5986
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/39.html",
+          "sha256": "67be8e5162fb6f70b86451458d08ea043cd37ef986e26be67e0eff497907e229",
+          "bytes": 12454
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t17n0784",
+      "title": "四十二章经",
+      "edition": "CBETA《大正新脩大藏經》 T17n0784",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T17n0784",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0784"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0784"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t17n0784/content.json",
+          "sha256": "758e687f268ccc7f2f8c68ef30501cc30352778f74d36028a33961f7a3622d26",
+          "bytes": 11961
+        },
+        {
+          "path": "books/cbeta-t17n0784/edition.epub",
+          "sha256": "e358add5cc2cd5d2fe6130d28f3e9ad8c30ce67e27316541d5fe76b86dedb6d1",
+          "bytes": 11046
+        },
+        {
+          "path": "books/cbeta-t17n0784/edition.txt",
+          "sha256": "6f0bbbbeee85a8f8ccaaf82590b8e3765e9d18d4e1d36e2994e3ba2d132db1ef",
+          "bytes": 17569
+        },
+        {
+          "path": "books/cbeta-t17n0784/meta.json",
+          "sha256": "a300a769dfa1ebccfb23aca5a4c1446997b82b7917258988dbd386db01746e0c",
+          "bytes": 2873
+        },
+        {
+          "path": "notices/6024d5126ee9f81f1304fc540a1c2b3f83d45f2e78588a45443f4b0572d80c8c.txt",
+          "sha256": "6024d5126ee9f81f1304fc540a1c2b3f83d45f2e78588a45443f4b0572d80c8c",
+          "bytes": 3627
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/40.html",
+          "sha256": "e269351fe836b091b8a1d9f3fc6231e11e135fc40f81f20f911ae91cadf10942",
+          "bytes": 9247
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t16n0663",
+      "title": "金光明经",
+      "edition": "CBETA《大正新脩大藏經》 T16n0663",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T16n0663",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0663"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0663"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t16n0663/content.json",
+          "sha256": "3d5923f00a102768fff0bd8a570f5cc2d4b3e6484d80dc11b5265d9858e5e11f",
+          "bytes": 162021
+        },
+        {
+          "path": "books/cbeta-t16n0663/edition.epub",
+          "sha256": "76f40063f21d9655a3fe0d25abfad5271b83ca3071b5a2038318655e5dea6a3d",
+          "bytes": 56274
+        },
+        {
+          "path": "books/cbeta-t16n0663/edition.txt",
+          "sha256": "7666b71dbe530d6fd44ff0c679d3c927f0140d31dc1a6df3306048ca4f3a3fb9",
+          "bytes": 121602
+        },
+        {
+          "path": "books/cbeta-t16n0663/meta.json",
+          "sha256": "64dbe4561aaa344443f2921e063d52188c9876de60a0b2587685c159217e8488",
+          "bytes": 2859
+        },
+        {
+          "path": "notices/835770b0026af7f3b6dff9f7c65cd2f0b6b740e4f3dc71f8c84fbd1b0910f0f1.txt",
+          "sha256": "835770b0026af7f3b6dff9f7c65cd2f0b6b740e4f3dc71f8c84fbd1b0910f0f1",
+          "bytes": 5180
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/41.html",
+          "sha256": "4057f02da42ac72e9a388eafbf62009a2334ca4f0137b4f97f695acd79c269e8",
+          "bytes": 11361
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t32n1666",
+      "title": "大乘起信论",
+      "edition": "CBETA《大正新脩大藏經》 T32n1666",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T32n1666",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1666"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1666"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t32n1666/content.json",
+          "sha256": "627ec28502a645bae3826f7a0aa2b41bef45cb6be6f6ed75239a4cc3529a3466",
+          "bytes": 42738
+        },
+        {
+          "path": "books/cbeta-t32n1666/edition.epub",
+          "sha256": "aadc6d8db3dcca66fff90c07f001c6068405731b1ddf631283667497c61e1bf5",
+          "bytes": 21985
+        },
+        {
+          "path": "books/cbeta-t32n1666/edition.txt",
+          "sha256": "39325463648ba7e5e680124db8320ce8fa7c47ef28d67b99c353ef9c6338670c",
+          "bytes": 47545
+        },
+        {
+          "path": "books/cbeta-t32n1666/meta.json",
+          "sha256": "f882517ffe30196a01237c1ae39940792bcdf227ed759f81ac6f5612d63dd9c2",
+          "bytes": 2865
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/b4f4fbe1fbd05f9a6a928d0ccb19809486878b27136bdb13f22758527ca60e5e.txt",
+          "sha256": "b4f4fbe1fbd05f9a6a928d0ccb19809486878b27136bdb13f22758527ca60e5e",
+          "bytes": 3693
+        },
+        {
+          "path": "s/42.html",
+          "sha256": "7e21a2f2e937524cfcb72800dca2938363cf3475794c09308f7a755ce95d7dc7",
+          "bytes": 9332
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t02n0099",
+      "title": "杂阿含经",
+      "edition": "CBETA《大正新脩大藏經》 T02n0099",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T02n0099",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0099"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0099"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t02n0099/content.json",
+          "sha256": "0bf4574f8bbfc6c9ab64b1e3c36647361d7356264006916fb5d82ec6c678b0bd",
+          "bytes": 2506778
+        },
+        {
+          "path": "books/cbeta-t02n0099/edition.epub",
+          "sha256": "7aa887d8e65f53f38742ae37fde2b5ecb84d62abd6996c624fdcf5c66325f937",
+          "bytes": 530325
+        },
+        {
+          "path": "books/cbeta-t02n0099/edition.txt",
+          "sha256": "4a19c7c93d331e1ee0d9249c37626f4a097c0579010f05221b5702af27626352",
+          "bytes": 1835469
+        },
+        {
+          "path": "books/cbeta-t02n0099/meta.json",
+          "sha256": "c33a6e0987b4faf009a0ed6161dc6b2c103549c8fc54d214729e4ed5de00bf14",
+          "bytes": 2852
+        },
+        {
+          "path": "notices/75465baf64f7b5a9fa73ed7f469a69b8e8d542e3befc4386293b3bbcf617679a.txt",
+          "sha256": "75465baf64f7b5a9fa73ed7f469a69b8e8d542e3befc4386293b3bbcf617679a",
+          "bytes": 27872
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/43.html",
+          "sha256": "9aeaf1f6e2d7bce032cd0f3ce9d410b26b2ab72a5a51b732f2fcb73a59437b2f",
+          "bytes": 42396
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t09n0262",
+      "title": "妙法莲华经",
+      "edition": "CBETA《大正新脩大藏經》 T09n0262",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T09n0262",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0262"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0262"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t09n0262/content.json",
+          "sha256": "8cf8a361f0ec4e161fe408dc299ee4c866ea4b8d0d4104c8fca269319d4b5986",
+          "bytes": 399174
+        },
+        {
+          "path": "books/cbeta-t09n0262/edition.epub",
+          "sha256": "e04dbb2d3c3ec78c848ddbafc886f65cf992ce27598b99fe1fa4a1c99ab6994d",
+          "bytes": 120596
+        },
+        {
+          "path": "books/cbeta-t09n0262/edition.txt",
+          "sha256": "31c4e992644d58ccc5e2be3d7ccf322d6507ce8e1d0587d34494ded939fcc9e6",
+          "bytes": 295998
+        },
+        {
+          "path": "books/cbeta-t09n0262/meta.json",
+          "sha256": "47ea622cb1ebfbd46d493d6304f47f9c66e2f59d83669766c5badecab171927a",
+          "bytes": 2868
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/edd208ae46e23655a1a9b59c2c89b2aa7df76f1a10ec4e66fcbfd8aeed85a327.txt",
+          "sha256": "edd208ae46e23655a1a9b59c2c89b2aa7df76f1a10ec4e66fcbfd8aeed85a327",
+          "bytes": 16506
+        },
+        {
+          "path": "s/44.html",
+          "sha256": "fbeca4865223ff04265ecb97781d78b86879ea20f65dc2fb4141097fb8574c5a",
+          "bytes": 26959
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t08n0235",
+      "title": "金刚经",
+      "edition": "CBETA《大正新脩大藏經》 T08n0235",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T08n0235",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0235"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0235"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t08n0235/content.json",
+          "sha256": "2fb36dfb00c506636afe4fc475b3530556290ac3f44d03861d72209a380973d8",
+          "bytes": 25299
+        },
+        {
+          "path": "books/cbeta-t08n0235/edition.epub",
+          "sha256": "4edb2769978714dd11c21af4ed1cae98bdb021ba8562dc94ea8fb4cfcff1f891",
+          "bytes": 12103
+        },
+        {
+          "path": "books/cbeta-t08n0235/edition.txt",
+          "sha256": "3d61f11c71d7bbf7ed1975ca19018ac1f753a10022da8023c541e0bca0fe26d9",
+          "bytes": 27986
+        },
+        {
+          "path": "books/cbeta-t08n0235/meta.json",
+          "sha256": "514facbd45315898ed924ca138b8b50e235345c94cc6331a7ddf8e4472203b5c",
+          "bytes": 2849
+        },
+        {
+          "path": "notices/1367ba05273040ee9367f9ce9b883f47a144f4454b142da21c4b9c3e3812a8b9.txt",
+          "sha256": "1367ba05273040ee9367f9ce9b883f47a144f4454b142da21c4b9c3e3812a8b9",
+          "bytes": 3969
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/45.html",
+          "sha256": "b3384b19b142bf0e8fc7b286bb6bd283091dcf721008fa33b40b602a6b6db884",
+          "bytes": 9672
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t08n0251",
+      "title": "心经",
+      "edition": "CBETA《大正新脩大藏經》 T08n0251",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T08n0251",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0251"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0251"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t08n0251/content.json",
+          "sha256": "e152c24385babcb1030efb120ac4de978a42113ecc8715282b49558deafe5d82",
+          "bytes": 4662
+        },
+        {
+          "path": "books/cbeta-t08n0251/edition.epub",
+          "sha256": "3ea303743135d63d94a537d5428fb3b7470f13b2a6613afccbf6fb2c21869ef5",
+          "bytes": 8231
+        },
+        {
+          "path": "books/cbeta-t08n0251/edition.txt",
+          "sha256": "515a2b822a2414312b8412bc172733b1923e039af8b26f5253d4994c3637b1db",
+          "bytes": 11403
+        },
+        {
+          "path": "books/cbeta-t08n0251/meta.json",
+          "sha256": "ecaee0e583798ea8b94d8fec53157190ddb6ab827958e7e8ab0041ca8c182652",
+          "bytes": 2810
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/ddc6a3ede53691ff9c7b2db50fb6b706e10435f5921854c22daa30aadbd47fe2.txt",
+          "sha256": "ddc6a3ede53691ff9c7b2db50fb6b706e10435f5921854c22daa30aadbd47fe2",
+          "bytes": 3212
+        },
+        {
+          "path": "s/46.html",
+          "sha256": "f675d8e0eb6851017d1c912ed02602bd78a33017e1c314dcca79ede0d42178ab",
+          "bytes": 8635
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t12n0360",
+      "title": "佛说无量寿经",
+      "edition": "CBETA《大正新脩大藏經》 T12n0360",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T12n0360",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0360"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0360"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t12n0360/content.json",
+          "sha256": "5b5c39ed2e670bb49d1cbc5f27f5a009783dccfd29ff60e7279f5ca1c9be2f44",
+          "bytes": 75913
+        },
+        {
+          "path": "books/cbeta-t12n0360/edition.epub",
+          "sha256": "c316a4a720ba1e194848ad7fb7645b8662ebd02b89adbc732573d990de7124f9",
+          "bytes": 34621
+        },
+        {
+          "path": "books/cbeta-t12n0360/edition.txt",
+          "sha256": "959ba454421cb02befc7dd36fc45065e1d7a3aa566a1abb7236dc35ef5403e24",
+          "bytes": 75172
+        },
+        {
+          "path": "books/cbeta-t12n0360/meta.json",
+          "sha256": "fe1c99a0f1c4f096c1930a7c97904baf0434346309aa94acce2624094067dbb8",
+          "bytes": 2835
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/a55f165264a0cb3a903bc410031fdda4eac887afc0482bca55debdd55040bbd7.txt",
+          "sha256": "a55f165264a0cb3a903bc410031fdda4eac887afc0482bca55debdd55040bbd7",
+          "bytes": 7545
+        },
+        {
+          "path": "s/47.html",
+          "sha256": "60afeca1c7a31feaf80305c61e67b1a727a64b44d6db42a452aa2547e0bb87d2",
+          "bytes": 14558
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t12n0365",
+      "title": "佛说观无量寿佛经",
+      "edition": "CBETA《大正新脩大藏經》 T12n0365",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T12n0365",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0365"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T0365"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t12n0365/content.json",
+          "sha256": "24334a1f6d97e5bf057327c22d8512ecc2b095e4d6cca5b9bfe072990681433e",
+          "bytes": 31929
+        },
+        {
+          "path": "books/cbeta-t12n0365/edition.epub",
+          "sha256": "8ca8bc4b003617a0db8dde17ed75627f349b3796996cfd0a0745c34429347ebc",
+          "bytes": 17563
+        },
+        {
+          "path": "books/cbeta-t12n0365/edition.txt",
+          "sha256": "01bec91b59d043172743be57e85acf30f2cb3a49a28cf0acbd7927680f70f7ef",
+          "bytes": 37834
+        },
+        {
+          "path": "books/cbeta-t12n0365/meta.json",
+          "sha256": "2cda9182dcbe32871ff73c84cee1e9d806cb44944f7694ff887f6f327dd5440b",
+          "bytes": 2846
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/c82ccfe6f38f770e337c97f23c39d3f5d5bece05dcd56aaec8f05afafa87fd69.txt",
+          "sha256": "c82ccfe6f38f770e337c97f23c39d3f5d5bece05dcd56aaec8f05afafa87fd69",
+          "bytes": 5011
+        },
+        {
+          "path": "s/48.html",
+          "sha256": "a87a31cfcd767e75baedc4f3b8c18a9b496515c06a06c6b2ad923369d7504529",
+          "bytes": 11114
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t31n1585",
+      "title": "成唯识论",
+      "edition": "CBETA《大正新脩大藏經》 T31n1585",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T31n1585",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1585"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1585"
+        },
+        {
+          "kind": "annotation",
+          "status": "not-applicable",
+          "detail": "本件未另编夹注。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t31n1585/content.json",
+          "sha256": "0d293d289834182a8e15d34f3b9d307925ede7be7a2a43ebe18e40766f574105",
+          "bytes": 390036
+        },
+        {
+          "path": "books/cbeta-t31n1585/edition.epub",
+          "sha256": "e36e73662025d67771a2581f5771d60d70cad655d391ac929c211f6a6615acd6",
+          "bytes": 130774
+        },
+        {
+          "path": "books/cbeta-t31n1585/edition.txt",
+          "sha256": "3bd6657eaa3b912fc206d59e6e747419b2c06cd8c65b9f01a3d3b590dc3342d2",
+          "bytes": 307846
+        },
+        {
+          "path": "books/cbeta-t31n1585/meta.json",
+          "sha256": "e5c2b6ca2f756c5a0f2af9b411479889a8f60d681b3d2ba2dbc0474bcae0c215",
+          "bytes": 2869
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "notices/fb81ac9cd3e9473f31b6001a1d786be6ff9c39ea8ffa0c8c9cbc78582322d672.txt",
+          "sha256": "fb81ac9cd3e9473f31b6001a1d786be6ff9c39ea8ffa0c8c9cbc78582322d672",
+          "bytes": 8361
+        },
+        {
+          "path": "s/49.html",
+          "sha256": "6d486f99a1b54d7e4151ed69559041d78f365acab412445c8049c93d15ead48a",
+          "bytes": 15621
+        }
+      ]
+    },
+    {
+      "id": "cbeta-t30n1564",
+      "title": "中论",
+      "edition": "CBETA《大正新脩大藏經》 T30n1564",
+      "licence": "CC BY-NC-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+      "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+      "sources": [
+        {
+          "kind": "original",
+          "status": "approved",
+          "detail": "CBETA《大正新脩大藏經》 T30n1564",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1564"
+        },
+        {
+          "kind": "transcription",
+          "status": "approved",
+          "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T1564"
+        },
+        {
+          "kind": "annotation",
+          "status": "approved",
+          "detail": "采用本件标示的注、异读或夹行文字。"
+        },
+        {
+          "kind": "translation",
+          "status": "not-applicable",
+          "detail": "未附现代译文。"
+        },
+        {
+          "kind": "facsimile",
+          "status": "not-applicable",
+          "detail": "此阅读本提供整理文字；原件见出处。"
+        }
+      ],
+      "files": [
+        {
+          "path": "books/cbeta-t30n1564/content.json",
+          "sha256": "deab97347a2a67331cb7c5d13ab3318f4a9cabf0210013192c81898a5f4d1f21",
+          "bytes": 229699
+        },
+        {
+          "path": "books/cbeta-t30n1564/edition.epub",
+          "sha256": "fb0c00da054af120335a3bc09382551b60d378b1246547cb3285924ff0687c5c",
+          "bytes": 63840
+        },
+        {
+          "path": "books/cbeta-t30n1564/edition.txt",
+          "sha256": "49c7a291572d17b1710fa9386bc96eb26c714bac7155803692e46cc4c444b002",
+          "bytes": 170339
+        },
+        {
+          "path": "books/cbeta-t30n1564/meta.json",
+          "sha256": "d4e4324e39b22fea7b02a0bf92bb53c9b0bcb02bdfbc6856df0bbac6cc985482",
+          "bytes": 2958
+        },
+        {
+          "path": "notices/63d386a3d1c7826883ff65a994b5ed281d07493850b322161f6bf0005627e929.txt",
+          "sha256": "63d386a3d1c7826883ff65a994b5ed281d07493850b322161f6bf0005627e929",
+          "bytes": 3778
+        },
+        {
+          "path": "notices/CBETA-usage.txt",
+          "sha256": "30051f1d6fef4492a25eec4212c50603416eacad7954a9589ad266be7aedffea",
+          "bytes": 2956
+        },
+        {
+          "path": "s/50.html",
+          "sha256": "1aa627a0996dd3f06faf7d25a5a155da74c36fcf14ba347175c4e1ed7b06a0f8",
+          "bytes": 9475
+        }
+      ]
+    }
+  ]
+}

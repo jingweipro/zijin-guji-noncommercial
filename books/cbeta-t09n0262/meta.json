@@ -1,0 +1,71 @@
+{
+  "id": "cbeta-t09n0262",
+  "legacyIndex": null,
+  "title": "妙法莲华经",
+  "aliases": [
+    "妙法蓮華經"
+  ],
+  "byline": "姚秦 · 姚秦 鳩摩羅什譯",
+  "author": "姚秦 鳩摩羅什譯",
+  "dynasty": "姚秦",
+  "section": "佛",
+  "category": "法华部",
+  "genre": "佛典",
+  "description": "CBETA《大正新脩大藏經》 T09n0262",
+  "coverAuthor": "姚秦 · 姚秦 鳩摩羅什譯",
+  "excerpt": "御製大乘妙法蓮華經序昔如來於耆闍崛山中，與大阿羅漢阿若憍陳如、摩訶迦葉無量等眾，演說大乘真經，名無量義。是時天雨寶華布濩充滿，慧光現瑞洞燭幽顯，普佛世界六種震動，一切人天得未曾有，咸皆歡喜讚歎，以為是",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-cbeta-t09n0262",
+  "editionId": "edition-cbeta-t09n0262-01",
+  "edition": "CBETA《大正新脩大藏經》 T09n0262",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "CBETA《大正新脩大藏經》 T09n0262",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0262"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0262"
+    },
+    {
+      "kind": "annotation",
+      "status": "approved",
+      "detail": "采用本件标示的注、异读或夹行文字。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    }
+  ],
+  "sourceNoticeSha256": "edd208ae46e23655a1a9b59c2c89b2aa7df76f1a10ec4e66fcbfd8aeed85a327",
+  "chapterCount": 7,
+  "characters": 72086,
+  "contentSha256": "8cf8a361f0ec4e161fe408dc299ee4c866ea4b8d0d4104c8fca269319d4b5986",
+  "exports": {
+    "contentSha256": "8cf8a361f0ec4e161fe408dc299ee4c866ea4b8d0d4104c8fca269319d4b5986",
+    "licence": "CC BY-NC-SA 4.0",
+    "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+    "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "txtSha256": "31c4e992644d58ccc5e2be3d7ccf322d6507ce8e1d0587d34494ded939fcc9e6",
+    "epubSha256": "e04dbb2d3c3ec78c848ddbafc886f65cf992ce27598b99fe1fa4a1c99ab6994d"
+  },
+  "creditPage": "s/44.html",
+  "creditSha256": "fbeca4865223ff04265ecb97781d78b86879ea20f65dc2fb4141097fb8574c5a"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cbeta-t17n0784",
+  "legacyIndex": null,
+  "title": "四十二章经",
+  "aliases": [
+    "四十二章經"
+  ],
+  "byline": "後漢 · 後漢 迦葉摩騰共法蘭譯",
+  "author": "後漢 迦葉摩騰共法蘭譯",
+  "dynasty": "後漢",
+  "section": "佛",
+  "category": "经集部",
+  "genre": "佛典",
+  "description": "CBETA《大正新脩大藏經》 T17n0784",
+  "coverAuthor": "後漢 · 後漢 迦葉摩騰共法蘭譯",
+  "excerpt": "四十二章經後漢西域沙門迦葉摩騰共法蘭譯昔漢孝明皇帝夜夢見神人，身體有金色，項有日光，飛在殿前，意中欣然，甚悅之。明日問群臣：「此為何神也？」有通人傅毅曰：「臣聞天竺有得道者，號曰佛，輕舉能飛，殆將其神",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-cbeta-t17n0784",
+  "editionId": "edition-cbeta-t17n0784-01",
+  "edition": "CBETA《大正新脩大藏經》 T17n0784",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "CBETA《大正新脩大藏經》 T17n0784",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0784"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0784"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本件未另编夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    }
+  ],
+  "sourceNoticeSha256": "6024d5126ee9f81f1304fc540a1c2b3f83d45f2e78588a45443f4b0572d80c8c",
+  "chapterCount": 1,
+  "characters": 2497,
+  "contentSha256": "758e687f268ccc7f2f8c68ef30501cc30352778f74d36028a33961f7a3622d26",
+  "exports": {
+    "contentSha256": "758e687f268ccc7f2f8c68ef30501cc30352778f74d36028a33961f7a3622d26",
+    "licence": "CC BY-NC-SA 4.0",
+    "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+    "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "txtSha256": "6f0bbbbeee85a8f8ccaaf82590b8e3765e9d18d4e1d36e2994e3ba2d132db1ef",
+    "epubSha256": "e358add5cc2cd5d2fe6130d28f3e9ad8c30ce67e27316541d5fe76b86dedb6d1"
+  },
+  "creditPage": "s/40.html",
+  "creditSha256": "e269351fe836b091b8a1d9f3fc6231e11e135fc40f81f20f911ae91cadf10942"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "cbeta-t17n0842",
+  "legacyIndex": null,
+  "title": "大方广圆觉修多罗了义经",
+  "aliases": [
+    "大方廣圓覺修多羅了義經"
+  ],
+  "byline": "唐 · 唐 佛陀多羅譯",
+  "author": "唐 佛陀多羅譯",
+  "dynasty": "唐",
+  "section": "佛",
+  "category": "经集部",
+  "genre": "佛典",
+  "description": "CBETA《大正新脩大藏經》 T17n0842",
+  "coverAuthor": "唐 · 唐 佛陀多羅譯",
+  "excerpt": "大方廣圓覺修多羅了義經大唐、罽賓三藏佛陀多羅譯如是我聞：一時，婆伽婆入於神通大光明藏，三昧正受，一切如來光嚴住持，是諸眾生清淨覺地；身心寂滅平等本際，圓滿十方不二隨順，於不二境現諸淨土。與大菩薩摩訶薩",
+  "layout": "classic",
+  "contentVersion": "1.0.1",
+  "workId": "work-cbeta-t17n0842",
+  "editionId": "edition-cbeta-t17n0842-01",
+  "edition": "CBETA《大正新脩大藏經》 T17n0842",
+  "collationStatus": "B",
+  "rights": {
+    "status": "public-approved",
+    "publicApproved": true
+  },
+  "sources": [
+    {
+      "kind": "original",
+      "status": "approved",
+      "detail": "CBETA《大正新脩大藏經》 T17n0842",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0842"
+    },
+    {
+      "kind": "transcription",
+      "status": "approved",
+      "detail": "CBETA 電子佛典集成 · CC BY-NC-SA 4.0。按卷转为竖排，原始标头另附。",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T0842"
+    },
+    {
+      "kind": "annotation",
+      "status": "not-applicable",
+      "detail": "本件未另编夹注。"
+    },
+    {
+      "kind": "translation",
+      "status": "not-applicable",
+      "detail": "未附现代译文。"
+    },
+    {
+      "kind": "facsimile",
+      "status": "not-applicable",
+      "detail": "此阅读本提供整理文字；原件见出处。"
+    }
+  ],
+  "sourceNoticeSha256": "66f737ce4f80c156644562167e21980feb730e6d66e9d9ba77377c0113e631ca",
+  "chapterCount": 1,
+  "characters": 11833,
+  "contentSha256": "5b8b8c3b7cd9178fb15af3e7e71016d19e22f0abc90608799a697b70cea628bb",
+  "exports": {
+    "contentSha256": "5b8b8c3b7cd9178fb15af3e7e71016d19e22f0abc90608799a697b70cea628bb",
+    "licence": "CC BY-NC-SA 4.0",
+    "credit": "底本 © 大藏出版株式會社。電子整理：財團法人佛教電子佛典基金會（CBETA）。",
+    "method": "子衿古籍依 CBETA 卷次提取文字与原注，重排为竖排阅读本。本整理本沿用非商业性、相同方式分享许可。",
+    "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "txtSha256": "f224df0f6e3a583a3e2473526df334e47557b53f7dc17a2c134b50b7df4bf630",
+    "epubSha256": "f4bb2ad3f951017cee75fb9aabc9e975c7f8b00014a6a703674b28270f7116d8"
+  },
+  "creditPage": "s/36.html",
+  "creditSha256": "dc35d6985d71c2942b830d255ea31bab7604f64b05864e1ec043d413d70cd12d"
+}
